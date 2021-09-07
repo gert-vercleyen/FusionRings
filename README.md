@@ -8,8 +8,8 @@ This package is released under the MIT license (see LICENSE file in top director
 Installing the package from the FusionRings.zip file can be done using steps:
 
 1. Use the command
-git clone https://GertVercleyen@bitbucket.org/GertVercleyen/fusionrings.wl.git
-in a terminal or download the zip file from https://bitbucket.org/GertVercleyen/fusionrings.wl/src/master/
+git clone https://github.com/gert-vercleyen/FusionRings
+in a terminal or download the zip file from https://github.com/gert-vercleyen/FusionRings
 2. In Mathematica go to File -> Install... in the top menu
 3. For Type of Item to Install click on Application
 4. For Source click on From File ... and select the FussionRings.zip file
