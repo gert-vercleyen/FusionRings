@@ -9,10 +9,11 @@ Installing the package from the FusionRings.zip file can be done using steps:
 
 1. Use the command
 git clone https://github.com/gert-vercleyen/FusionRings
-in a terminal or download the zip file from https://github.com/gert-vercleyen/FusionRings
+in a terminal and zip the directory, or download the zip file from https://github.com/gert-vercleyen/FusionRings (by clicking on the green "Code" button right above the list of files and choosing "Download ZIP")
+2. Make sure the zip file is called FusionRings.zip. If not, rename it.
 2. In Mathematica go to File -> Install... in the top menu
 3. For Type of Item to Install click on Application
-4. For Source click on From File ... and select the FussionRings.zip file
+4. For Source click on From File ... and select the FusionRings.zip file
 5. Choose whether you want to install this package for all users or only for yourself and finish the installation by clicking on OK
 
 The package can now be loaded by evaluating
